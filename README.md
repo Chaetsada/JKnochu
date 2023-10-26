@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chaesada Kulwong
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chaetsada Kulawong
 ========================================================================================================================================
 
 Front End developer
 -------------------
 
-i'am a self taught deveoper i've been learning code for 5 month after switching careers. I started with HTML CSS and JS , So i really found a passion for front-end deveopment
+I am a self taught deveoper i've been learning code for 5 month after switching careers. I started with HTML CSS and JS , So i really found a passion for front-end deveopment
 
 * 🌍  I'm based in Khon kaen, Thailand
 * ✉️  You can contact me at [Chaetsada.k@gmail.com](mailto:Chaetsada.k@gmail.com)
